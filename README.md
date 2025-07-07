@@ -2,9 +2,6 @@
 
 TimeProbe is a WCET analysis tool. It performs measurement-based probabilistic timing analysis (MBPTA) using extreme value theory (EVT). During application of EVT, it uses the block maxima method (hence generalized extreme value distribution) and the method of l-moments.
 
-The program takes the execution time values of the analyzed program as a numpy array and an integer bound value whose exceedance probability will be calculated.
-Providing execution times is compulsory. Providing bloksize and the boundary value is optional. 
-
 TimeProbe performs four primary operations regarding WCET analysis.
 
 - Fits a generalized extreme value (GEV) distribution to the execution times.
@@ -22,24 +19,27 @@ TimeProbe takes three command line arguments:
 
 - Block size (bsize): The block size as an integer value. This argument is optional. However, the block maxima method should have a block size value; and if it is not provided the default block size value which is 10 is applied.
 
-- Boundary value (bval): The value of whose exceedance probability will be calculated. This argument is optional. If it is not provided an exceedance value will not be calculated.
+- Boundary value (bval): The boundary value for which the exceedance probability will be calculated. This argument is optional. If it is not provided an exceedance value will not be calculated.
 
 ## Usage
 
 ### Usage syntax
 
-`python3 time_probe.py file_name -bsize block_size -bval boundary_value`
+```
+python3 time_probe.py file_name -bsize block_size -bval boundary_value
+```
 
 ### Usage examples
 
-`python3 time_probe.py execution_times.csv -bsize 20 -bval 93`
+```
+python3 time_probe.py execution_times.csv -bsize 20 -bval 93
 
-`python3 time_probe.py execution_times.csv -bsize 20`
+python3 time_probe.py execution_times.csv -bsize 20
 
-`python3 time_probe.py execution_times.csv -bval 93`
+python3 time_probe.py execution_times.csv -bval 93
 
-`python3 time_probe.py execution_times.csv`
-
+python3 time_probe.py execution_times.csv
+```
 
 ## Requirements
 
