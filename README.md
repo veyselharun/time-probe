@@ -43,4 +43,4 @@ TimeProbe takes three command line arguments:
 
 ## Requirements
 
-TimeProbe is developed using Python 3.13. It requires numpy packaage for array operations, lmoments3 package for EVT operations, and mathplotlib package for plotting operations.
+TimeProbe is developed using Python 3.13. It requires `numpy` packaage for array operations, `lmoments3` package for EVT operations, and `mathplotlib` package for plotting operations.
