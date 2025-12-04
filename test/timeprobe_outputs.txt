@@ -1,0 +1,345 @@
+
+python3 time_probe.py bubble_sort_times.csv -bsize 10 -bval 700
+File Name = bubble_sort_times.csv
+Block Size = 10
+Boundary Value = 700
+The probability of exceeding 700 is 0.9565109760464209
+
+python3 time_probe.py bubble_sort_times.csv -bsize 20 -bval 700
+File Name = bubble_sort_times.csv
+Block Size = 20
+Boundary Value = 700
+The probability of exceeding 700 is 0.9577265221620515
+
+python3 time_probe.py bubble_sort_times.csv -bsize 25 -bval 700
+File Name = bubble_sort_times.csv
+Block Size = 25
+Boundary Value = 700
+The probability of exceeding 700 is 0.9391892671503996
+
+python3 time_probe.py bubble_sort_times.csv -bsize 40 -bval 700
+File Name = bubble_sort_times.csv
+Block Size = 40
+Boundary Value = 700
+The probability of exceeding 700 is 0.9845403504825616
+
+python3 time_probe.py bubble_sort_times.csv -bsize 50 -bval 700
+File Name = bubble_sort_times.csv
+Block Size = 50
+Boundary Value = 700
+The probability of exceeding 700 is 0.9844265139074115
+
+python3 time_probe.py bubble_sort_times.csv -bsize 100 -bval 700
+File Name = bubble_sort_times.csv
+Block Size = 100
+Boundary Value = 700
+The probability of exceeding 700 is 0.9791206989518891
+
+python3 time_probe.py bubble_sort_times.csv -bsize 125 -bval 700
+File Name = bubble_sort_times.csv
+Block Size = 125
+Boundary Value = 700
+The probability of exceeding 700 is 0.9769322049722566
+
+python3 time_probe.py bubble_sort_times.csv -bsize 200 -bval 700
+File Name = bubble_sort_times.csv
+Block Size = 200
+Boundary Value = 700
+The probability of exceeding 700 is 0.9304492452959265
+
+python3 time_probe.py bubble_sort_times.csv -bsize 250 -bval 700
+File Name = bubble_sort_times.csv
+Block Size = 250
+Boundary Value = 700
+The probability of exceeding 700 is 0.9199816332957387
+
+
+----------------------------------
+
+
+python3 time_probe.py bubble_sort_times.csv -bsize 10 -bval 800 
+File Name = bubble_sort_times.csv
+Block Size = 10
+Boundary Value = 800
+The probability of exceeding 800 is 0.9204703630149655
+
+python3 time_probe.py bubble_sort_times.csv -bsize 20 -bval 800
+File Name = bubble_sort_times.csv
+Block Size = 20
+Boundary Value = 800
+The probability of exceeding 800 is 0.9153488144027855
+
+python3 time_probe.py bubble_sort_times.csv -bsize 25 -bval 800
+File Name = bubble_sort_times.csv
+Block Size = 25
+Boundary Value = 800
+The probability of exceeding 800 is 0.8965282043728723
+
+python3 time_probe.py bubble_sort_times.csv -bsize 40 -bval 800
+File Name = bubble_sort_times.csv
+Block Size = 40
+Boundary Value = 800
+The probability of exceeding 800 is 0.9470935892226293
+
+python3 time_probe.py bubble_sort_times.csv -bsize 50 -bval 800
+File Name = bubble_sort_times.csv
+Block Size = 50
+Boundary Value = 800
+The probability of exceeding 800 is 0.9578656976315948
+
+python3 time_probe.py bubble_sort_times.csv -bsize 100 -bval 800
+File Name = bubble_sort_times.csv
+Block Size = 100
+Boundary Value = 800
+The probability of exceeding 800 is 0.955161116310073
+
+python3 time_probe.py bubble_sort_times.csv -bsize 125 -bval 800
+File Name = bubble_sort_times.csv
+Block Size = 125
+Boundary Value = 800
+The probability of exceeding 800 is 0.9502047423629592
+
+python3 time_probe.py bubble_sort_times.csv -bsize 200 -bval 800
+File Name = bubble_sort_times.csv
+Block Size = 200
+Boundary Value = 800
+The probability of exceeding 800 is 0.9020310883787495
+
+python3 time_probe.py bubble_sort_times.csv -bsize 250 -bval 800
+File Name = bubble_sort_times.csv
+Block Size = 250
+Boundary Value = 800
+The probability of exceeding 800 is 0.8873828272206487
+
+
+----------------------------------
+
+
+python3 time_probe.py bubble_sort_times.csv -bsize 10 -bval 900
+File Name = bubble_sort_times.csv
+Block Size = 10
+Boundary Value = 900
+The probability of exceeding 900 is 0.855985659440035
+
+python3 time_probe.py bubble_sort_times.csv -bsize 20 -bval 900
+File Name = bubble_sort_times.csv
+Block Size = 20
+Boundary Value = 900
+The probability of exceeding 900 is 0.8368399778601567
+
+python3 time_probe.py bubble_sort_times.csv -bsize 25 -bval 900
+File Name = bubble_sort_times.csv
+Block Size = 25
+Boundary Value = 900
+The probability of exceeding 900 is 0.8240844924320827
+
+python3 time_probe.py bubble_sort_times.csv -bsize 40 -bval 900
+File Name = bubble_sort_times.csv
+Block Size = 40
+Boundary Value = 900
+The probability of exceeding 900 is 0.8545823538193529
+
+python3 time_probe.py bubble_sort_times.csv -bsize 50 -bval 900
+File Name = bubble_sort_times.csv
+Block Size = 50
+Boundary Value = 900
+The probability of exceeding 900 is 0.8948844948590122
+
+python3 time_probe.py bubble_sort_times.csv -bsize 100 -bval 900
+File Name = bubble_sort_times.csv
+Block Size = 100
+Boundary Value = 900
+The probability of exceeding 900 is 0.9049721025912397
+
+python3 time_probe.py bubble_sort_times.csv -bsize 125 -bval 900
+File Name = bubble_sort_times.csv
+Block Size = 125
+Boundary Value = 900
+The probability of exceeding 900 is 0.8948252993820549
+
+python3 time_probe.py bubble_sort_times.csv -bsize 200 -bval 900
+File Name = bubble_sort_times.csv
+Block Size = 200
+Boundary Value = 900
+The probability of exceeding 900 is 0.8581866101484192
+
+python3 time_probe.py bubble_sort_times.csv -bsize 250 -bval 900
+File Name = bubble_sort_times.csv
+Block Size = 250
+Boundary Value = 900
+The probability of exceeding 900 is 0.8383439174768055
+
+
+----------------------------------
+
+
+python3 time_probe.py bubble_sort_times.csv -bsize 10 -bval 1000
+File Name = bubble_sort_times.csv
+Block Size = 10
+Boundary Value = 1000
+The probability of exceeding 1000 is 0.7424411945777616
+
+python3 time_probe.py bubble_sort_times.csv -bsize 20 -bval 1000
+File Name = bubble_sort_times.csv
+Block Size = 20
+Boundary Value = 1000
+The probability of exceeding 1000 is 0.6996493503566674
+
+python3 time_probe.py bubble_sort_times.csv -bsize 25 -bval 1000
+File Name = bubble_sort_times.csv
+Block Size = 25
+Boundary Value = 1000
+The probability of exceeding 1000 is 0.7012448408849127
+
+python3 time_probe.py bubble_sort_times.csv -bsize 40 -bval 1000
+File Name = bubble_sort_times.csv
+Block Size = 40
+Boundary Value = 1000
+The probability of exceeding 1000 is 0.6781863880298908
+
+python3 time_probe.py bubble_sort_times.csv -bsize 50 -bval 1000
+File Name = bubble_sort_times.csv
+Block Size = 50
+Boundary Value = 1000
+The probability of exceeding 1000 is 0.7614015298373731
+
+python3 time_probe.py bubble_sort_times.csv -bsize 100 -bval 1000
+File Name = bubble_sort_times.csv
+Block Size = 100
+Boundary Value = 1000
+The probability of exceeding 1000 is 0.8019728234840465
+
+python3 time_probe.py bubble_sort_times.csv -bsize 125 -bval 1000
+File Name = bubble_sort_times.csv
+Block Size = 125
+Boundary Value = 1000
+The probability of exceeding 1000 is 0.7838443316711371
+
+python3 time_probe.py bubble_sort_times.csv -bsize 200 -bval 1000
+File Name = bubble_sort_times.csv
+Block Size = 200
+Boundary Value = 1000
+The probability of exceeding 1000 is 0.7865780391683819
+
+python3 time_probe.py bubble_sort_times.csv -bsize 250 -bval 1000
+File Name = bubble_sort_times.csv
+Block Size = 250
+Boundary Value = 1000
+The probability of exceeding 1000 is 0.7615979664254938
+
+
+----------------------------------
+
+
+python3 time_probe.py bubble_sort_times.csv -bsize 10 -bval 1100
+File Name = bubble_sort_times.csv
+Block Size = 10
+Boundary Value = 1100
+The probability of exceeding 1100 is 0.5472012536849883
+
+python3 time_probe.py bubble_sort_times.csv -bsize 20 -bval 1100
+File Name = bubble_sort_times.csv
+Block Size = 20
+Boundary Value = 1100
+The probability of exceeding 1100 is 0.478805249714795
+
+python3 time_probe.py bubble_sort_times.csv -bsize 25 -bval 1100
+File Name = bubble_sort_times.csv
+Block Size = 25
+Boundary Value = 1100
+The probability of exceeding 1100 is 0.49342859380909954
+
+python3 time_probe.py bubble_sort_times.csv -bsize 40 -bval 1100
+File Name = bubble_sort_times.csv
+Block Size = 40
+Boundary Value = 1100
+The probability of exceeding 1100 is 0.4248031041647198
+
+python3 time_probe.py bubble_sort_times.csv -bsize 50 -bval 1100
+File Name = bubble_sort_times.csv
+Block Size = 50
+Boundary Value = 1100
+The probability of exceeding 1100 is 0.5177531804116519
+
+python3 time_probe.py bubble_sort_times.csv -bsize 100 -bval 1100
+File Name = bubble_sort_times.csv
+Block Size = 100
+Boundary Value = 1100
+The probability of exceeding 1100 is 0.5969458768493459
+
+python3 time_probe.py bubble_sort_times.csv -bsize 125 -bval 1100
+File Name = bubble_sort_times.csv
+Block Size = 125
+Boundary Value = 1100
+The probability of exceeding 1100 is 0.5720169749632757
+
+python3 time_probe.py bubble_sort_times.csv -bsize 200 -bval 1100
+File Name = bubble_sort_times.csv
+Block Size = 200
+Boundary Value = 1100
+The probability of exceeding 1100 is 0.6576820767551768
+
+python3 time_probe.py bubble_sort_times.csv -bsize 250 -bval 1100
+File Name = bubble_sort_times.csv
+Block Size = 250
+Boundary Value = 1100
+The probability of exceeding 1100 is 0.6336076061380215
+
+
+----------------------------------
+
+
+python3 time_probe.py bubble_sort_times.csv -bsize 10 -bval 1200
+File Name = bubble_sort_times.csv
+Block Size = 10
+Boundary Value = 1200
+The probability of exceeding 1200 is 0.2264128891056323
+
+python3 time_probe.py bubble_sort_times.csv -bsize 20 -bval 1200
+File Name = bubble_sort_times.csv
+Block Size = 20
+Boundary Value = 1200
+The probability of exceeding 1200 is 0.17134169168322122
+
+python3 time_probe.py bubble_sort_times.csv -bsize 25 -bval 1200
+File Name = bubble_sort_times.csv
+Block Size = 25
+Boundary Value = 1200
+The probability of exceeding 1200 is 0.1436709016797013
+
+python3 time_probe.py bubble_sort_times.csv -bsize 40 -bval 1200
+File Name = bubble_sort_times.csv
+Block Size = 40
+Boundary Value = 1200
+The probability of exceeding 1200 is 0.16620279379577185
+
+python3 time_probe.py bubble_sort_times.csv -bsize 50 -bval 1200
+File Name = bubble_sort_times.csv
+Block Size = 50
+Boundary Value = 1200
+The probability of exceeding 1200 is 0.16946928282800833
+
+python3 time_probe.py bubble_sort_times.csv -bsize 100 -bval 1200
+File Name = bubble_sort_times.csv
+Block Size = 100
+Boundary Value = 1200
+The probability of exceeding 1200 is 0.21278410818838156
+
+python3 time_probe.py bubble_sort_times.csv -bsize 125 -bval 1200
+File Name = bubble_sort_times.csv
+Block Size = 125
+Boundary Value = 1200
+The probability of exceeding 1200 is 0.20365868225981398
+
+python3 time_probe.py bubble_sort_times.csv -bsize 200 -bval 1200
+File Name = bubble_sort_times.csv
+Block Size = 200
+Boundary Value = 1200
+The probability of exceeding 1200 is 0.3625131245744653
+
+python3 time_probe.py bubble_sort_times.csv -bsize 250 -bval 1200
+File Name = bubble_sort_times.csv
+Block Size = 250
+Boundary Value = 1200
+The probability of exceeding 1200 is 0.389548848062116
+
